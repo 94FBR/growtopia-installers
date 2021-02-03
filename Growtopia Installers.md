@@ -25,4 +25,5 @@ https://bit.ly/3tkA459
 https://bit.ly/2MxtlUJ
 # Growtopia 3.56 Installer (Alternative)
 https://bit.ly/36B5SJl
-#################################
+# END
+Would update/add more version as soon as Growtopia releases a new one.
